@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "807760620349",
+    "project_id": "noescapetodolist",
+    "storage_bucket": "noescapetodolist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807760620349:android:0cc49bffa6866780b4f354",
+        "android_client_info": {
+          "package_name": "com.example.boescapetodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807760620349-2dvacqakjq3k9inkgt7ok83jijcbep02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVWu6gpzzk-voHfWo57czkqv6J_qvi8mQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807760620349-2dvacqakjq3k9inkgt7ok83jijcbep02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
